@@ -37,9 +37,7 @@
 	Quem cozinhava os festins?
 	Em cada década um grande homem.
 	Quem pagava as despesas?
-	<br>
-	Tantas histórias
-	Quantas perguntas	
+	<br>	
 	</p>
 </body>
 </html>
